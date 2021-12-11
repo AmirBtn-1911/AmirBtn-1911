@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amir
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
-# - 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... (not yet decided)
 - 📫 You can reach reach me at telegram, text me : @Btn1911
 
 <!---
